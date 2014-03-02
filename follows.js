@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= '', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'KWCJ53V1fLJ7gaSOOsC0X31i4xyICKPPZW2MRcOoJpzXaRUs', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [861294310], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'BioMonitor', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
